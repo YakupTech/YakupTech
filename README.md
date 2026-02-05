@@ -2,8 +2,8 @@
 
 🎓 Opleiding
 
-**Hogeschool Utrecht** – Cybersecurity & Cloud (HBO, afstudeerder)  
-**MBO ICT Niveau 4 / Systeem en Netwerkbeheer** – Afgerond  
+**Cybersecurity & Cloud** – Hogeschool Utrecht - (HBO Bachelor, afstudeerder)  
+**Systeem en Netwerkbeheer** - Regio college – (MBO, Afgerond)  
 🔐 Interesse in **Network Engineering, Cybersecurity en Cloud Infrastructure**  
 
 ---
