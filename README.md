@@ -68,7 +68,7 @@ en mij verder te ontwikkelen richting **Security Engineer** of **Cloud Security 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/YassineDr06
+- GitHub: https://github.com/YakupTech
 - LinkedIn: *(optioneel toevoegen)*
 
 ⭐ *Dit profiel wordt actief bijgewerkt met nieuwe projecten en leerervaringen.*
