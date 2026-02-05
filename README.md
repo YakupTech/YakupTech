@@ -1,4 +1,4 @@
-# Hi, I'm Yakup 👋
+# Hoi, Ik ben Yakup 👋
 
 🎓 Afstudeerder **Cybersecurity & Cloud** – Hogeschool Utrecht  
 🔐 Interesse in **Cybersecurity, Cloud Infrastructure & Networking**  
