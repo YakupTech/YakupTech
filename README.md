@@ -57,17 +57,18 @@ Ik werk aan **hands-on projecten** om mijn technische vaardigheden aantoonbaar t
 - Firewalls (pfSense)
 - VPN (WireGuard)
 - Wireshark
+- Fysieke installatie en rack-mounting  
+- Basisconfiguratie via CLI (VLANs, trunking, IP-adressen)  
 
----
-
-## 🎯 Doel
-Mijn doel is om te starten in een **junior cybersecurity- of cloudfunctie**  
-en mij verder te ontwikkelen richting **Security Engineer** of **Cloud Security Engineer**.
+**Hardware**
+- PC bouwen & hardware troubleshooting
+- Fysieke installatie netwerkapparatuur en rack-mounting  
+- Basis netwerkbekabeling & peripherals setup
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/YakupTech
-- LinkedIn: *(optioneel toevoegen)*
+- LinkedIn: https://www.linkedin.com/in/yakup-kizilirmak-9b62711aa/
 
 ⭐ *Dit profiel wordt actief bijgewerkt met nieuwe projecten en leerervaringen.*
