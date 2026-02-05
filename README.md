@@ -14,29 +14,16 @@ Ik werk aan **hands-on projecten** om mijn technische vaardigheden aantoonbaar t
 ---
 
 ## 📂 Project Portfolio
-🔗 **Cyber • Cloud • Network Portfolio**  
-👉 https://github.com/YakupTech/cyber-cloud-network-portfolio
-
-Dit portfolio bevat o.a.:
-- Homelab met AD, Linux & firewall
-- Network security & hardening
-- SOC monitoring & incident response
-- Azure cloud infrastructuur
-- DevSecOps CI/CD pipeline
-- IAM & GRC security projecten
-
-## 📂 Projecten
 
 | Project | Repository |
 |--------|------------|
-| Cyber • Cloud • Network Portfolio | [Bekijk repo](https://github.com/YassineDr06/cyber-cloud-network-portfolio) |
-| Homelab Architecture | [Bekijk project](https://github.com/YassineDr06/cyber-cloud-network-portfolio/tree/main/01-homelab-architecture) |
-| Network Security & Hardening | [Bekijk project](https://github.com/YassineDr06/cyber-cloud-network-portfolio/tree/main/02-network-security) |
-| SOC Monitoring & Incident Response | [Bekijk project](https://github.com/YassineDr06/cyber-cloud-network-portfolio/tree/main/03-soc-security-monitoring) |
-| Cloud Infrastructure (Azure) | [Bekijk project](https://github.com/YassineDr06/cyber-cloud-network-portfolio/tree/main/04-cloud-infrastructure) |
-| DevSecOps CI/CD Pipeline | [Bekijk project](https://github.com/YassineDr06/cyber-cloud-network-portfolio/tree/main/05-devsecops-pipeline) |
-| IAM & GRC Security | [Bekijk project](https://github.com/YassineDr06/cyber-cloud-network-portfolio/tree/main/06-iam-grc-security) |
-
+| Cyber • Cloud • Network Portfolio | [Bekijk repo](https://github.com/yakuptech/cyber-cloud-network-portfolio) |
+| Homelab Architecture | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/01-homelab-architecture) |
+| Network Security & Hardening | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/02-network-security) |
+| SOC Monitoring & Incident Response | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/03-soc-security-monitoring) |
+| Cloud Infrastructure (Azure) | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/04-cloud-infrastructure) |
+| DevSecOps CI/CD Pipeline | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/05-devsecops-pipeline) |
+| IAM & GRC Security | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/06-iam-grc-security) |
 
 ---
 
