@@ -70,6 +70,18 @@ Ik werk aan **hands-on projecten** om mijn technische vaardigheden aantoonbaar t
 
 ---
 
+## 🎯 Doel
+- Aantonen van technische vaardigheden naast mijn opleiding
+- Praktische ervaring opdoen met realistische IT-scenario’s
+- Voorbereiding op functies zoals:
+  - Cybersecurity / SOC Analyst
+  - Cloud Engineer
+  - DevOps / DevSecOps Engineer
+  - System Engineer
+  - Network / Security Engineer
+
+---
+
 ## 📫 Contact
 - GitHub: https://github.com/YakupTech
 - LinkedIn: https://www.linkedin.com/in/yakup-kizilirmak-9b62711aa/
