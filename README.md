@@ -49,7 +49,7 @@ Ik werk actief aan **hands-on projecten** om mijn technische vaardigheden aantoo
 
 ## 📂 Project Portfolio
 🔗 **Cyber • Cloud • Network Portfolio**  
-👉 https://github.com/YassineDr06/cyber-cloud-network-portfolio
+👉 https://github.com/YakupTech/cyber-cloud-network-portfolio
 
 Dit portfolio bevat o.a.:
 - Homelab met AD, Linux & firewall
