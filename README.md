@@ -3,7 +3,7 @@
 🎓 Opleiding
 
 **Cybersecurity & Cloud** – Hogeschool Utrecht - (HBO Bachelor, afstudeerder)  
-**Systeem en Netwerkbeheer** - Regio college – (MBO, Afgerond)
+**Systeem en Netwerkbeheer** - Regio College – (MBO, Afgerond)
 
 🔐 Interesse in **Network Engineering, Cybersecurity en Cloud Infrastructure**  
 
