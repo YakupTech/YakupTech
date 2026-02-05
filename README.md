@@ -21,6 +21,7 @@ Ik werk aan **hands-on projecten** om mijn technische vaardigheden aantoonbaar t
 
 | Project | Repository |
 |--------|------------|
+| CCNA Mega Lab | [Bekijk repo](https://github.com/yakuptech/CCNAMegaLab) |
 | Cyber • Cloud • Network Portfolio | [Bekijk repo](https://github.com/yakuptech/cyber-cloud-network-portfolio) |
 | Homelab Architecture | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/01-homelab-architecture) |
 | Network Security & Hardening | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/02-network-security) |
