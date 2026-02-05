@@ -1,6 +1,7 @@
 # Hoi, Ik ben Yakup 👋
 
 🎓 Opleiding
+
 **Hogeschool Utrecht** – Cybersecurity & Cloud (HBO, afstudeerder)  
 **MBO ICT Niveau 4 / Systeem en Netwerkbeheer** – Afgerond  
 🔐 Interesse in **Network Engineering, Cybersecurity en Cloud Infrastructure**  
