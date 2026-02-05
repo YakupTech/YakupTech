@@ -2,13 +2,12 @@
 
 🎓 Afstudeerder **Cybersecurity & Cloud** – Hogeschool Utrecht  
 🔐 Interesse in **Cybersecurity, Cloud Infrastructure & Networking**  
-🚀 Gericht op **junior IT-rollen** (Security / Cloud / System / Network Engineering)
 
 ---
 
 ## 👨‍💻 Over mij
 Ik ben een gemotiveerde IT-student met een sterke focus op **praktische ervaring** naast mijn opleiding.
-Mijn interesse ligt vooral bij **blue team security**, **cloud infrastructuur** en **betrouwbare IT-omgevingen**.
+Mijn interesse ligt vooral bij **blue team security**, **cloud infrastructuur** , **network engineering** en **betrouwbare IT-omgevingen**.
 
 Ik werk actief aan **hands-on projecten** om mijn technische vaardigheden aantoonbaar te maken.
 
