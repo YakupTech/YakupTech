@@ -13,7 +13,7 @@
 Ik ben een gemotiveerde IT-student met een sterke focus op **praktische ervaring** naast mijn opleiding.
 Mijn interesse ligt vooral bij **network engineering**, **blue team security**, **cloud infrastructuur**  en **betrouwbare IT-omgevingen**.
 
-Ik werk aan **hands-on projecten** om mijn technische vaardigheden aantoonbaar te maken en verder te ontwikkelen.
+Ik werk aan **hands-on projecten** om mijn technische vaardigheden aantoonbaar te maken en verder te blijven ontwikkelen.
 
 ---
 
