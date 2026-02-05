@@ -13,6 +13,20 @@ Ik werk actief aan **hands-on projecten** om mijn technische vaardigheden aantoo
 
 ---
 
+## 📂 Project Portfolio
+🔗 **Cyber • Cloud • Network Portfolio**  
+👉 https://github.com/YakupTech/cyber-cloud-network-portfolio
+
+Dit portfolio bevat o.a.:
+- Homelab met AD, Linux & firewall
+- Network security & hardening
+- SOC monitoring & incident response
+- Azure cloud infrastructuur
+- DevSecOps CI/CD pipeline
+- IAM & GRC security projecten
+
+---
+
 ## 🛠️ Technische vaardigheden
 
 **Besturingssystemen**
@@ -43,20 +57,6 @@ Ik werk actief aan **hands-on projecten** om mijn technische vaardigheden aantoo
 - Firewalls (pfSense)
 - VPN (WireGuard)
 - Wireshark
-
----
-
-## 📂 Project Portfolio
-🔗 **Cyber • Cloud • Network Portfolio**  
-👉 https://github.com/YakupTech/cyber-cloud-network-portfolio
-
-Dit portfolio bevat o.a.:
-- Homelab met AD, Linux & firewall
-- Network security & hardening
-- SOC monitoring & incident response
-- Azure cloud infrastructuur
-- DevSecOps CI/CD pipeline
-- IAM & GRC security projecten
 
 ---
 
