@@ -24,14 +24,14 @@ Ik werk aan **hands-on projecten** om mijn technische vaardigheden aantoonbaar t
 | Homelab Media Server | [Bekijk repo](https://github.com/YakupTech/Media-Server) |
 | CCNA Mega Lab | [Bekijk repo](https://github.com/yakuptech/CCNA) |
 | Python Cyber Security | [Bekijk repo](https://github.com/yakuptech/Python) |
-| DevOps Cloud Engineer | [Bekijk repo](https://github.com/yakuptech/cyber-cloud-network-portfolio) |
-| Homelab Architecture | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/01-homelab-architecture) |
-| Network Security & Hardening | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/02-network-security) |
-| SOC Monitoring & Incident Response | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/03-soc-security-monitoring) |
-| Cloud Infrastructure (Azure) | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/04-cloud-infrastructure) |
-| DevSecOps CI/CD Pipeline | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/05-devsecops-pipeline) |
-| IAM & GRC Security | [Bekijk project](https://github.com/yakuptech/cyber-cloud-network-portfolio/tree/main/06-iam-grc-security) |
-| Cyber • Cloud • Network Portfolio | [Bekijk repo](https://github.com/yakuptech/cyber-cloud-network-portfolio) |
+| DevOps Cloud Engineer |  |
+| Homelab Architecture |  |
+| Network Security & Hardening | |
+| SOC Monitoring & Incident Response |  |
+| Cloud Infrastructure (Azure) |  |
+| DevSecOps CI/CD Pipeline |  |
+| IAM & GRC Security |  |
+| Cyber • Cloud • Network Portfolio | |
 
 ---
 
