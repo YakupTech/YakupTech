@@ -21,6 +21,7 @@ Ik werk aan **hands-on projecten** om mijn technische vaardigheden aantoonbaar t
 
 | Project | Repository |
 |--------|------------|
+| Homelab Media Server | [Bekijk repo](https://github.com/YakupTech/Media-Server) |
 | CCNA Mega Lab | [Bekijk repo](https://github.com/yakuptech/CCNA) |
 | Python Cyber Security | [Bekijk repo](https://github.com/yakuptech/Python) |
 | DevOps Cloud Engineer | [Bekijk repo](https://github.com/yakuptech/cyber-cloud-network-portfolio) |
